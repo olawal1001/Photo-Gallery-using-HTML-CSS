@@ -1,0 +1,89 @@
+.navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px 50px;
+}
+
+div.top {
+    background-image: url("Snapshot/1.jpg");
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    background-size: cover;
+    content: " ";
+    display: block;
+    opacity: 0.8;
+    background-size: cover;
+    height: 50vh;
+    width: 100%;
+    /* text-align: center;
+    justify-content: right; */
+} 
+.hero {
+    text-align: center;
+}
+.side-note {
+    /* margin: 15px 5px 0 45px; */
+    color: white;
+}
+.header-btn {
+    color: white;
+    background-color: rgb(235, 56, 56);
+}
+.hero-btn {
+    margin-left: 390px;
+    color: white;
+    background-color: rgb(64, 107, 236);
+    padding: 10px 30px;
+}
+.put {
+    text-align: center;
+}
+h1 {
+    color: white;
+    font-size: 30px;
+}
+p {
+    color: white;
+    font-weight: bold;
+    justify-self: flex-start;
+    line-height: 1.6;
+}
+.botttom {
+    
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+}
+button {
+    border-radius: 50px;
+    margin: 10px;
+    padding: 5px 30px;
+    border: none;
+}
+.button {
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+}
+.blue {
+    color: white;
+    background-color:  rgb(64, 107, 236);
+    margin-bottom: 30px;
+}
+.botton-btn {
+    border: 1px solid  rgb(64, 107, 236) ;
+    background-color: white;
+    margin-bottom: 30px;
+}
+.first, .second {
+    display: flex;
+    justify-content: center;
+    
+
+}
+.gallery-img{
+    max-width: 150px;
+    margin: 5px;
+}
+ 
